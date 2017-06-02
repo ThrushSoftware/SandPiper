@@ -1,0 +1,5 @@
+c:\users\root\documents\visual studio 2017\Projects\ProjectSandPiper\ProjectSandPiper\bin\Release\ProjectSandPiper.dll
+c:\users\root\documents\visual studio 2017\Projects\ProjectSandPiper\ProjectSandPiper\bin\Release\ProjectSandPiper.pdb
+c:\users\root\documents\visual studio 2017\Projects\ProjectSandPiper\ProjectSandPiper\obj\Release\ProjectSandPiper.csprojResolveAssemblyReference.cache
+c:\users\root\documents\visual studio 2017\Projects\ProjectSandPiper\ProjectSandPiper\obj\Release\ProjectSandPiper.dll
+c:\users\root\documents\visual studio 2017\Projects\ProjectSandPiper\ProjectSandPiper\obj\Release\ProjectSandPiper.pdb
